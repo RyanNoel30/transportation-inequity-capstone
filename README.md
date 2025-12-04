@@ -22,3 +22,18 @@ transportation-inequity-capstone/
 ├── README.md               # This file
 └── .env                    # Environment variables (not tracked)
 ```
+
+
+## Getting Started
+
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Set up environment variables in `.env`
+
+3. Run the main application:
+   ```bash
+   python src/backend/main.py
+   ```
