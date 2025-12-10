@@ -36,6 +36,4 @@ transportation-inequity-capstone/
    python src/backend/main.py
    ```
 
-## License
 
-[Add your license here]
